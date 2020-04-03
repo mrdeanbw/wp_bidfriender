@@ -1,0 +1,175 @@
+.my-logo
+{
+  float:right;
+}
+
+.RARA
+{
+  float:left
+}
+
+
+.my-links-top
+{
+  float:left
+}
+
+.ace-responsive-menu > li
+{
+  float:right !important
+}
+
+input
+{
+  unicode-bidi: bidi-override;
+  direction: RTL;
+  text-align: right
+}
+
+.login-submit-form p
+{
+  text-align: right
+}
+
+#cssmenu2 > ul > li
+{
+  float:right
+}
+
+#header #logo
+{
+  float:right
+}
+
+#footer-widget-area div ul li .widget-title
+{
+  text-align: right
+}
+
+#footer .textwidget
+{
+  text-align: right
+}
+
+.widget-container p
+{
+  text-align: right
+}
+
+*
+{
+  text-align: right
+}
+
+.alignleft
+{
+  float:right
+}
+
+#search-button
+{
+  left:0;
+  border-radius: 5px 0px 0px 5px
+}
+
+#my-account-admin-menu li a
+{
+  text-align: right
+}
+
+.post-main-details ul li, .user-avatar-me
+{
+  float:right
+}
+
+.search-ttl-form
+{
+  float:left
+}
+
+.page_heading_me_inner .col-md-8
+{
+  float:right
+}
+
+.my_box3_breadcrumb
+{
+  text-align: right
+}
+
+.drpdown-wrapper, .input_text_serch-wrapper, .input_submit_serch-wrapper
+{
+  float:right
+}
+
+.my-bid-thing-me, .my-bid-thing-average
+{
+  float:right;
+  border-radius:0
+}
+
+.wrapper-dropdown-3
+{
+  border-radius: 0 7px 7px 0
+}
+
+#my-top-search-input
+{
+  border:1px solid #aaa;
+  border-left:0;
+
+}
+
+#my-top-submit-input
+{
+  border-radius: 7px 0 0 7px;
+  border: 1px solid #aaa;
+  border-right:0;
+}
+
+.search-ttl-form-inner
+{
+  float:left
+}
+
+.account-sidebar
+{
+  float: right !important;
+}
+
+.account-main-area
+{
+    float: left !important;
+}
+
+.section-mid-1one h6
+{
+  float:right;
+}
+
+.section-mid-1one span
+{
+  float:left
+}
+
+.section-mid-1one
+{
+   height:28px;
+}
+
+.account-sidebar-component .fas
+{
+  float: right;
+  padding-left:6px;
+}
+
+.nv-ttl,.post-new3 li h2
+{
+  float:right
+}
+
+
+.nv-ttl2,  .post-new3 li p
+{
+  float:left
+}

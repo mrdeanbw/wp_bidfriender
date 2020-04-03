@@ -1,0 +1,367 @@
+#adminmenuback, #adminmenuwrap, #adminmenu, #adminmenu .wp-submenu, #adminmenu .wp-submenu-wrap, .folded #adminmenu .wp-has-current-submenu .wp-submenu
+{
+
+}
+
+.err1
+{
+	width:100%;
+	padding: 10px;
+	box-sizing: border-box;
+	color: red;
+	border:1px solid red;
+	margin-bottom:15px;
+	background: white
+}
+
+.membership-box
+{
+	box-sizing: border-box;
+	padding-left:10px;
+	padding-right:10px;
+	margin-bottom:15px;
+}
+
+
+.membership-box2
+{
+	box-sizing: border-box;
+	padding-left:10px;
+	padding-right:10px;
+	margin-bottom:15px;
+}
+
+.membership-box-inner
+{
+	width:100%;
+	border:1px solid #ccc;
+	border-radius:5px;
+	padding:15px;
+	background: #fff;
+	box-sizing: border-box;
+
+}
+
+.membership-box-title
+{
+	text-align: center;;
+	width:100%;
+	font-size:16px;
+	font-weight: bold
+}
+
+.membership-box-price
+{
+	font-weight:bold;
+	font-size:25px;
+	margin-top:15px;
+	margin-bottom:15px;
+	text-align: center;
+}
+
+.membership-box-bids
+{
+
+	font-size:18px;
+	margin-top:10px;
+	margin-bottom:5px;
+	text-align: center;
+}
+
+.membership-box-duration
+{
+
+	font-size:18px;
+	margin-top:0px;
+	margin-bottom:10px;
+	text-align: center;
+}
+
+.membership-box-btn
+{
+			text-align: center;
+			margin-top:25px;
+}
+
+
+
+
+
+
+.padd-lft-rght
+{
+	padding :12px !important;
+
+	font-size:14px;
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif !important;
+	background: #f1eee5 !important;
+	border-left:3px solid green;
+	margin-bottom:8px;
+}
+
+.column-ids
+{
+	width:50px;
+}
+
+.widefat th
+{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px
+}
+	#toplevel_page_admin_menu a.wp-first-item
+	{
+		font-size:11px
+	}
+
+	.delete_thing
+	{
+		border:1px solid red;
+		background:#F5E6EA;
+		overflow:hidden;
+		margin:10px 0px 10px 0;
+		-moz-border-radius: 10px;
+		border-radius: 10px;
+	}
+
+	.saved_thing
+	{
+		border:1px solid #333;
+		background:green;
+		overflow:hidden; color:#fff;
+		padding:10px; margin-bottom:5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		width:920px
+	}
+
+	.padd10
+	{
+		padding:10px
+	}
+
+	.cat-class
+	{
+		-moz-border-radius: 10px;
+		border-radius: 10px; padding:10px;
+
+		width:400px; height:200px;
+		background-color:#FDFFEF;
+		margin-top:10px;
+		overflow:auto;border:1px solid #333
+	}
+
+	#post-new4
+{
+	list-style-type:none;
+	overflow:hidden
+
+}
+
+#post-new4 li
+{
+	float:left;
+	display:block;
+	margin-bottom:0px;
+	overflow:hidden;
+	width:100%;
+	border-bottom:1px solid #ccc;
+	padding-bottom:10px;
+}
+
+#post-new4 li h2
+{
+	float:left;
+	width:130px;
+	font-size:12px;
+	margin-bottom: 0;
+	margin:0;
+	padding:0;
+	margin-top:10px;
+}
+
+#post-new4 li p
+{
+	float:left;
+	width:90%;
+	overflow:hidden;
+	margin:0; padding:0;
+}
+
+	.go_go1
+	{
+		width:100%;
+		display:inline-block;
+    box-sizing: border-box;
+		margin-bottom:0;
+    padding-bottom:0
+	}
+
+	.go_go2_1{
+		float:left;
+    width:130px	;
+    padding-top:4px;
+    clear: none !important
+	}
+	.go_go2_2{
+		float:left; width:200px;
+    clear: none !important;
+    padding-bottom:0 !important;
+    margin-bottom: 0
+	}
+
+	.MY_mo_gogo
+	{
+		width:100%;
+		padding:6px;
+    box-sizing: border-box;
+		border-bottom:1px solid #ccc
+	}
+
+
+	a.green_btn:link, a.green_btn:visited {
+	background:#F60 ;
+	display: inline-block;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	text-decoration: none;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+	margin-left:3px;
+	font-size:12px;
+	}
+
+a.green_btn:hover
+{
+
+		background:#F90;
+		color:#FFF;
+		text-decoration:none;
+}
+
+a.green_btn2:link, a.green_btn2:visited {
+	background:#9C0 ;
+	display: inline-block;
+	padding: 2px 10px 2px 10px;
+	color: #fff;
+	text-decoration: none;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+
+	margin-left:3px;
+	font-size:12px;
+	}
+
+
+a.green_btn2:hover
+{
+
+		background:#9F9;
+		color:#FFF;
+		text-decoration:none;
+}
+
+.sitemile-table{ border-collapse:collapse; font-family:Arial, Helvetica, sans-serif }
+.sitemile-table tr td { border-bottom:1px solid #dedede; padding:7px; }
+.ui-tabs .ui-tabs-panel { padding:0 }
+
+#adminmenuback, #adminmenuwrap, #adminmenu, #adminmenu .wp-submenu, #adminmenu .wp-submenu-wrap, .folded #adminmenu .wp-has-current-submenu .wp-submenu { width:155px }
+
+#icon-options-general2 {	background:url('images/setup_icon_big.png') no-repeat }
+#icon-options-general3 {	background:url('images/email_icon_big.png') no-repeat }
+#icon-options-general4 {	background:url('images/dollar_icon_big.png') no-repeat }
+#icon-options-general5 {	background:url('images/bal_icon_big.png') no-repeat }
+#icon-options-general6 {	background:url('images/info_icon_big.png') no-repeat }
+#icon-options-general7	 {	background:url('images/orders_icon_big.png') no-repeat }
+#icon-options-general8	 {	background:url('images/overview_icon_big.png') no-repeat }
+
+#icon-options-general-track	 {	background:url('images/track_icon_big.png') no-repeat }
+#icon-options-general-info	 {	background:url('images/info_icon_big.png') no-repeat }
+#icon-options-general-arb	 {	background:url('images/arbiter_icon_big.png') no-repeat }
+#icon-options-general-orders	 {	background:url('images/orders_icon_big.png') no-repeat }
+#icon-options-general-mess	 {	background:url('images/mess_icon_big.png') no-repeat }
+#icon-options-general-rev	 {	background:url('images/review_icon_big.png') no-repeat }
+#icon-options-general-bal	 {	background:url('images/bal_icon_big.png') no-repeat }
+#icon-options-general-badges	 {	background:url('images/badge2.png') no-repeat }
+#icon-options-general-lvls	 {	background:url('images/bdg2.png') no-repeat }
+#icon-options-general-vault	 {	background:url('images/vault_icon_big.png') no-repeat }
+#icon-options-general-withdr	 {	background:url('images/wallet_icon_big.png') no-repeat }
+#icon-options-general-gateway	 {	background:url('images/gateway_icon_big.png') no-repeat }
+#icon-options-general-layout	 {	background:url('images/layout_icon_big.png') no-repeat }
+#icon-options-general-adve	 {	background:url('images/adv_icon_big.png') no-repeat }
+#icon-options-general-email	 {	background:url('images/email_icon_big.png') no-repeat }
+#icon-options-general-summary	 {	background:url('images/overview_icon_big.png') no-repeat }
+#icon-options-general-pricing	 {	background:url('images/dollar_icon_big.png') no-repeat }
+#icon-options-general-custpricing	 {	background:url('images/penny_icon_big.png') no-repeat }
+#icon-options-general-custfields	 {	background:url('images/input_icon_big.png') no-repeat }
+#icon-options-general-img	 {	background:url('images/image_icon_big.png') no-repeat }
+#icon-options-general-list	 {	background:url('images/list_icon_big.png') no-repeat }
+
+.wrap h2.my_title_class_sitemile { margin-bottom:10px }
+.ui-tabs { box-shadow:0px 0px 10px #ccc; }
+.padd101 { padding:30px 0 30px 0 }
+
+.festin
+{
+	color:#558DCC;
+	text-decoration:underline
+}
+
+/*  idTabs ~ Sean Catchpole  */
+
+
+/* Style for Usual tabs */
+.usual {
+  background:#333;
+  color:#111;
+  border-radius:6px;
+  padding:15px 20px;
+  width:95%;
+  border:1px solid #222;
+  margin:8px auto;
+  float:left;
+}
+.usual ul { margin:0; padding:0 }
+
+.usual li { list-style:none; float:left; margin:0 }
+.usual ul a {
+  display:block;
+  padding:6px 10px;
+  text-decoration:none!important;
+  margin:1px;
+  margin-left:0;
+  font:12px Verdana;
+  color:#ddd;
+  background: #9e9e9e;
+  margin-right:5px;  border-radius: 6px 6px 0 0
+
+}
+.usual ul a:hover {
+  color:#FFF;
+  background:#111;
+  }
+.usual ul a.selected {
+  margin-bottom:0;
+  color:#000;
+  background:#fff;
+  border-bottom:1px solid #fff;
+  cursor:default;
+  border-radius: 6px 6px 0 0
+  }
+.usual div {
+  padding:10px 10px 8px 10px;
+  *padding-top:3px;
+  *margin-top:-15px;
+  clear:left;
+  background:#fff;
+  font:10pt Georgia;
+}
+.usual div a:link.festin, .usual div a:visited.festin { text-decoration:underline }
+
+#usual2 { background: #24282d;  }
+
+
+
+.spntxt_bo { line-height:18px; width:500px; color:#777; font-size:12px; font-family:Arial, Helvetica, sans-serif !important; margin-bottom:20px; }
+.spntxt_bo2 { line-height:18px; width:500px; color:#777; font-size:11px; font-family:Arial, Helvetica, sans-serif !important; margin-bottom:20px; }
